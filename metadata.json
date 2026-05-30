@@ -1,0 +1,6 @@
+{
+  "name": "Falak An-Nirwana",
+  "description": "Aplikasi Hisab & Falak kontemporer Padepokan Pesantren An-Nirwana untuk perhitungan Ijtima' dan Rukyatul Hilal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
